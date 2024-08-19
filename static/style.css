@@ -1,0 +1,16 @@
+img {
+	max-width: 90%;
+	max-height: 400px;
+}
+
+body {
+    background-color: #DBE2E9;
+}
+
+#content {
+    max-width: 900px;
+    margin: 0 auto; /* Centers the content horizontally */
+    padding: 0 20px; /* Adds a bit of padding on the sides */
+    width: 100%; /* Ensures the content takes up the full width up to 900px */
+    box-sizing: border-box; /* Ensures padding is included in the element's width */
+}

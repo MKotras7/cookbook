@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Matthew&#39;s Cookbook</title>
+    <link>http://localhost:8080/recipes/</link>
+    <description>Recent content in Recipes on Matthew&#39;s Cookbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ham and Cheese Crepes</title>
+      <link>http://localhost:8080/recipes/ham-and-cheese-crepes/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/recipes/ham-and-cheese-crepes/</guid>
+      <description>Ingredients Crepes (see Savory Crepes Recipe) Ham Cheese (many kinds work well) Instructions Prepare Ingredients Cut ham and cheese into cubes.&#xA;Create Savory Crepes Create savory crepes as seen in the Savory Crepes Recipe&#xA;Assemble Crepes Load half the crepe with ham and cheese, then roll it up.&#xA;Cook Crepes Place the rolled-up crepe into a hot buttered pan with the end of the crepe on the bottom. Cook until the cheese melts and the crepe browns slightly.</description>
+    </item>
+    <item>
+      <title>Savory Crepes</title>
+      <link>http://localhost:8080/recipes/savory-crepes/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/recipes/savory-crepes/</guid>
+      <description>Ingredients 1 Cup all purpose flour 1 cup milk 2 tbps melted butter 2 eggs </description>
+    </item>
+    <item>
+      <title>Sweet crepes</title>
+      <link>http://localhost:8080/recipes/sweet-crepes/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8080/recipes/sweet-crepes/</guid>
+      <description>Ingredients 1 Cup all purpose flour 1 cup milk 2 tbps melted butter 2 eggs 1/4 cup sugar 1/4 tsp - 1 tbps vanilla extract </description>
+    </item>
+  </channel>
+</rss>

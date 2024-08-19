@@ -1,28 +1,44 @@
-# Ham and Cheese Crepes
+---
+title: Ham and Cheese Crepes
+date: 2023-02-20
+draft: false
+---
+
+![Ham and Cheese Crepe](/images/ham-and-cheese-crepes/ham-and-cheese-crepe.webp)
 
 ## Ingredients
 
-* Crepes, see [Savory Crepes Recipe](./savory-crepes.md)
+* Crepes (see [Savory Crepes Recipe]({{< relref savory-crepes >}}))
 * Ham
-* Cheese, many kinds work well
+* Cheese (many kinds work well)
 
 ## Instructions
 
-1. Cut ham and cheese into cubes.
+### Prepare Ingredients
 
-![Cut Ham](../images/ham-and-cheese-crepes/cut-ham.webp)
-![Cut Cheese](../images/ham-and-cheese-crepes/cut-cheese.webp)
+Cut ham and cheese into cubes.
 
-2. Create savory crepes as seen in the [Savory Crepes Recipe](./savory-crepes.md).
+![Cut Ham](/images/ham-and-cheese-crepes/cut-ham.webp)
+![Cut Cheese](/images/ham-and-cheese-crepes/cut-cheese.webp)
 
-3. Load half the crepe with ham and cheese, then roll it up.
+### Create Savory Crepes
 
-![Loaded Crepe](../images/ham-and-cheese-crepes/loaded-crepe.webp)
+Create savory crepes as seen in the [Savory Crepes Recipe]({{< relref savory-crepes >}})
 
-4. Place the rolled-up crepe into a hot buttered pan with the end of the crepe on the bottom. Cook until the cheese melts and the crepe browns slightly. Flip and do the same on the other side.
+### Assemble Crepes
 
-![Re-cooked Crepes](../images/ham-and-cheese-crepes/re-cooked-crepes.webp)
+Load half the crepe with ham and cheese, then roll it up.
 
-5. Serve.
+![Loaded Crepe](/images/ham-and-cheese-crepes/loaded-crepe.webp)
 
-![Ham and Cheese Crepe](../images/ham-and-cheese-crepes/ham-and-cheese-crepe.webp)
+### Cook Crepes
+
+Place the rolled-up crepe into a hot buttered pan with the end of the crepe on the bottom. Cook until the cheese melts and the crepe browns slightly. Flip and do the same on the other side.
+
+![Re-cooked Crepes](/images/ham-and-cheese-crepes/re-cooked-crepes.webp)
+
+### Serve
+
+Serve the ham and cheese crepe hot.
+
+![Ham and Cheese Crepe](/images/ham-and-cheese-crepes/ham-and-cheese-crepe.webp)

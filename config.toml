@@ -1,0 +1,10 @@
+baseURL = 'http://localhost:8080/'
+languageCode = 'en-us'
+title = "Matthew's Cookbook"
+theme = "cookbook-theme"
+
+[permalinks]
+    recipe = "/recipes/:filename/"
+
+[params]  
+    stylesheet = "/style.css"

@@ -1,0 +1,12 @@
+{{ define "main" }}
+    <h1>Recipes</h1>
+    <ul>
+    {{ range .Site.Pages }}
+        {{ if eq .Section "recipes" }}
+            {{ if not (eq .Title "Recipes") }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    </ul>
+{{ end }}
