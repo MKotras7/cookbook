@@ -1,3 +1,5 @@
+[cookbook.matthewkotras.xyz](cookbook.matthewkotras.xyz)
+
 # cookbook
 My personal list of recipes
 
