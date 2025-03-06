@@ -16,7 +16,7 @@ draft: false
 
 ### Prepare Asparagus
 
-* Cut woody base of off
+* Cut woody base off
 * Peel base for even thickness
 
 ### Cook Asparagus
