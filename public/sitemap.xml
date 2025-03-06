@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8080/recipes/ham-and-cheese-crepes/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:8080/recipes/asparagus/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8080/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8080/recipes/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/recipes/creamy-zucchini-penne/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/recipes/fettuccine-alfredo/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/recipes/ham-and-cheese-crepes/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8080/recipes/savory-crepes/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8080/recipes/sweet-crepes/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/recipes/sweet-umami-beef-bowl/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:8080/categories/</loc>
   </url><url>
