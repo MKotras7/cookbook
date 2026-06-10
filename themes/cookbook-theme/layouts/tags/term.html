@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>Recipes tagged "{{ .Title }}"</h1>
+
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
